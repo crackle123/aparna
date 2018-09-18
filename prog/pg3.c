@@ -7,5 +7,5 @@ long int rev(long int n)
 }
 int main()
 {
- printf("%ld",rev(122134465));
+ printf("%ld",rev(0));
 }
